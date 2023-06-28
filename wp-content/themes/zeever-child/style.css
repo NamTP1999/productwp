@@ -1,0 +1,17 @@
+/*
+ Theme Name:  zeever Child
+ Template:  zeever
+ Description:  MyTheme Child Theme
+*/
+
+/* start custom css */
+body .zeever-animate-init {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) translateX(0) scale(1) rotate(0);
+    color: red !important;
+}
+/* end custom css */
+
+
+
